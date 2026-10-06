@@ -1,0 +1,5 @@
+target/
+cache/
+results/
+.idea/workspace.xml
+*.class
